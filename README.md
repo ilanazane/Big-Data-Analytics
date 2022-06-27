@@ -6,4 +6,4 @@ Homework 2: Discussed ACF and PACF plots
 
 Homework 3: Understanding the ROC curve and logisitc regression 
 
-Homework 4: Predictor matrices
+Homework 4: Predictor matrices and feature selection
